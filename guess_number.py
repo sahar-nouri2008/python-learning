@@ -55,7 +55,7 @@ while True:
             print("       Try again!🎯")
             print("=" * 35)
             break
-    play_agin=input("do you want to play again?(y/n)").lower()
-    if play_agin=="n":
+    play_again=input("do you want to play again?(y/n)").lower()
+    if play_again=="n":
         print("goodbye")
         break
